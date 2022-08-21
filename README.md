@@ -29,8 +29,7 @@
 <br>
 <br>
 <br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={dohy0709})](https://solved.ac/{dohy0709})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dohy0709)](https://solved.ac/dohy0709)
 <br>
 ![Dohyeon's github stats](https://github-readme-stats.vercel.app/api?username=dohyeon0709&show_icons=true&theme=dracula)
 
