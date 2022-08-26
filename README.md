@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-:pencil2: Studying :pencil2:
+:pencil2: STUDYING :pencil2:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
