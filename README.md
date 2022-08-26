@@ -8,7 +8,7 @@
 <br>
 <br>
 <br>
-:iphone: SNS :iphone:
+:iphone: CONTACT :iphone:
 <br>
 <br>
 <a href="https://www.instagram.com/dohyeon_o3o/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
