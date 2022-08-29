@@ -4,7 +4,7 @@
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohyeon0709%2F&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%98%83&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-:fire: 안녕하세요! 풀스택 개발자가 되기 위해 노력하는 뉴비 개발자입니다! :fire:
+:fire: 안녕하세요! 고수 개발자가 되기 위해 노력하는 뉴비 개발자입니다! :fire:
 <br>
 <br>
 <br>
