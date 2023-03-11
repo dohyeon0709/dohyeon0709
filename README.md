@@ -12,7 +12,7 @@
 <br>
 <br>
 <a href="https://www.instagram.com/dohyeon_o3o/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://dohyeon0709.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
+<a href="https://dohyeon0709.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </a>
 <br>
 <br>
