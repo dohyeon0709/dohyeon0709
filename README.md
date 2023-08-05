@@ -35,5 +35,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dohy0709)](https://solved.ac/dohy0709)
 <br>
 <br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dohy0709)](https://solved.ac/{dohy0709})
 
 </div>
